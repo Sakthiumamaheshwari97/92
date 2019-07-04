@@ -1,2 +1,2 @@
-i=[int(s) for s in input().split()]
-print((i[1]*i[0])//i[2])
+iml=[int(s) for s in input().split()]
+print((iml[1]*iml[0])//iml[2])
